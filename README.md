@@ -1,2 +1,2 @@
-# Fish-Apps-Debian-
+# Fish-Apps-Debian
 fluffy-octo-broccoli
